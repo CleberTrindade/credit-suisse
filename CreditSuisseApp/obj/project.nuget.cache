@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSt15MrZL5R/BAkxBP+UgNLJHwsJuK+f6r5tDjwrTEWV/m/P14RSeEELyTczaQwQy9fclphJjA+eueouBu5VsA==",
+  "success": true,
+  "projectFilePath": "C:\\Arquivos\\01. Projetos\\MazzaTech\\CreditSuisse\\CreditSuisseApp\\CreditSuisseApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clebe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\clebe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
